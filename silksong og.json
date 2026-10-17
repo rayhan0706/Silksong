@@ -1,6 +1,6 @@
 {
-  "name": "Silksong: Crimson Silk (Red)",
-  "description": "Silksong-inspired theme with strong crimson surfaces, borders, mentions and scrollbars.",
+  "name": "Silksong: Crimson Silk",
+  "description": "Silksong-inspired theme.",
   "version": "1.0",
   "authors": [
     {
@@ -382,7 +382,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1029064811495030907/1521967680385454133/0ace3486db6ea20ea649e7bb42d1bbe5.jpg?ex=6ac0b51b&is=6abf639b&hm=afb6fa3025284b27ace73d24fc5d2b8cbf14a9aa38b586c60a5abcfb2376a3c6&",
+    "url": "https://raw.githubusercontent.com/rayhan0706/Silksong/refs/heads/main/SS.png",
     "alpha": 0.4,
     "size": "cover",
     "position": "center"
